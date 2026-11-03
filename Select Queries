@@ -1,0 +1,7 @@
+SELECT * FROM table_name ;
+
+SELECT col1 , col2 FROM table_name ;
+
+SELECT * FROM table_name WHERE (data condition value ) ;
+  E.G :- SELECT * data WHERE ( age < 18 ) ;
+
